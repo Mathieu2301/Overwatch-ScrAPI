@@ -16,5 +16,4 @@ If you want to write data in a text file, you can run `node.exe main >> data.txt
 - Environmental Kill - Most in Game = 1
 - Final Blows - Most in Game = 20
 - Healing Done - Most in Game = 10197
-- [...]
-- (TOTAL: 3196 lines)
+- [...] (TOTAL: 3196 lines)
